@@ -12,5 +12,6 @@ public class GitTest2 {
         System.out.println("三国演义");
         System.out.println("三国演义");
         System.out.println("红楼梦");
+        System.out.println("三国演义");
     }
 }
